@@ -1,9 +1,5 @@
 # Bài tập 4: Phân tích và tái thiết kế tầng dữ liệu theo Database-per-service
 
-**Sinh viên:** Dang Khanh An  
-**Mã lớp/mã định danh:** IT214 - PTIT070  
-**Session:** SS02 - Từ Monolithic đến Microservice
-
 ## 1. Bối cảnh hệ thống LibraX
 
 LibraX đã được tách thành 4 service độc lập:
